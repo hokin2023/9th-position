@@ -1,11 +1,12 @@
-# <asd>
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-https://choosealicense.com/licenses/mit/
+# <9th Position>
 
 ## Description
 
-asd
+- The README generator provides me a framework of README file with built-in prompts, so I don't have it write it from scratch.
+
+- The project sharpened my Node JS skills and brought me one step closer to success.
+
+- In the end, it solved problems such as prompts and render license link.
 
 ## Table of Contents
 
@@ -17,33 +18,38 @@ asd
 
 - [Installation](#Installation)
 
-
 - [Questions](#Questions)
 
 - [License](#License)
 
 ## Installation
 
-asd
+- Added starter clone.
+
+- Install inquirer package.
+
+- Wrote functions on index.js generateMarkdown.js
+
+- Included link to walkthrough video on README file.
+
+- Made A sample of README generator.
 
 ## Usage 
 
-asd
+Input your answers for all these prompts, and a sample of README file will be generated on SAMPLE.md
+
+https://watch.screencastify.com/v/vrgzftvc5Or8ZTN8sfhh
 
 ## How to Contribute
 
-asd
+NA
 
 ## Tests
 
-asd
-
-## Questions
-
-hokin990@gmail.com Feel free email me with any questions!
-
-hokin2023 https://github.com/hokin2023
+NA
 
 ## License
-  Licensed under https://choosealicense.com/licenses/mit/ license
+  Licensed under MIT license
+
+
 

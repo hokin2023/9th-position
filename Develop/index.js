@@ -101,7 +101,7 @@ inquirer
 .then((response) => {
     const readmeContent = generateMarkdown(response);
 
-    fs.writeFile('README.md', readmeContent, function (err)  {
+    fs.writeFile('SAMPLE.md', readmeContent, function (err)  {
         if (err) {
             console.log('please try again!')
     } else {
@@ -115,15 +115,3 @@ inquirer
     console.log(error)
 }) 
 
-// TODO: Create a function to write README file
-
-function writeToFile() {
-}
-
-// TODO: Create a function to initialize app
-function init() {
-   
-}
-
-// Function call to initialize app
-init();

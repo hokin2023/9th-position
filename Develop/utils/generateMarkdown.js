@@ -64,7 +64,6 @@ ${response.description}
 
 - [Installation](#Installation)
 
-
 - [Questions](#Questions)
 
 - [License](#License)
@@ -87,9 +86,9 @@ ${response.test}
 
 ## Questions
 
-${response.email} Feel free email me with any questions!
+${response.email} If you have any questions, please email using this link.
 
-${response.Github} https://github.com/${response.Github}
+https://github.com/${response.Github}
 
 ${renderLicenseSection(response.license)}
 
